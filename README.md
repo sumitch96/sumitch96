@@ -15,7 +15,7 @@
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for me. Let's innovate together! </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/sumit-choudhary-5a8649253/">
-    <img src="https://img.shields.io/badge/AmanYadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/SumitChoudhary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
 
